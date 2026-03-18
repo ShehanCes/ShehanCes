@@ -39,6 +39,9 @@ I am a **Full-Stack Software Developer** specializing in cross-platform mobile a
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShehanCes&theme=tokyonight" alt="Summary Stats" height="180px" />
 </p>
 
+
+![Snake Animation](https://raw.githubusercontent.com/ShehanCes/ShehanCes/output/github-snake-dark.svg)
+
 ---
 
 ###  Let's Connect
