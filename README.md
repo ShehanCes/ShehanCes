@@ -30,7 +30,7 @@ I bridge the gap between high-performance frontends and robust, secure backends.
 
 ###  GitHub Ecosystem
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShehanCes&theme=tokyonight&hide_border=true&area=true" width="100%" />
+
 
 <br/>
 
@@ -44,6 +44,9 @@ I bridge the gap between high-performance frontends and robust, secure backends.
 <br/>
 
 <img src="https://raw.githubusercontent.com/ShehanCes/ShehanCes/output/github-snake-dark.svg" alt="Snake" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShehanCes&theme=tokyonight&hide_border=true&area=true" width="100%" />
+
 
 ---
 
