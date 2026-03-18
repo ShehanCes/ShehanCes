@@ -45,5 +45,7 @@ I am a **Full-Stack Software Developer** specializing in cross-platform mobile a
 ---
 
 ###  Let's Connect
--  [LinkedIn](https://www.linkedin.com/in/shehancecil/)
+
 -  jayesinghashehan@gmail.com
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
