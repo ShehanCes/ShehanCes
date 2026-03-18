@@ -35,7 +35,6 @@ I bridge the gap between high-performance frontends and robust, secure backends.
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ShehanCes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="185px" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShehanCes&layout=compact&theme=tokyonight&hide_border=true" height="185px" />
 
 <br/>
 
